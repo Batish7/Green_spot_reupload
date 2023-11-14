@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">GreenSpot</string>
+    <string name="plants_title_hint">Enter a title for the plant.</string>
+    <string name="plants_title_label">Title</string>
+    <string name="plants_details_label">Details</string>
+    <string name="plants_location_label">Location</string>
+    <string name="help">Help</string>
+    <string name="new_plant">New Plants</string>
+    <string name="plant_reporter_text">Choose Reporter</string>
+    <string name="plant_report_text">Send Plant Report</string>
+    <string name="plant_report">%1$s!
+        The plant was discovered on %2$s. %3$s, and %4$s
+</string>
+    <string name="plant_report_found">The plant is found</string>
+    <string name="plant_report_not_found">The plant is not found</string>
+    <string name="plant_report_no_reporter">there is no reporter.</string>
+    <string name="plant_reporter_reporter">the reporter is %s.</string>
+    <string name="plant_report_subject">GreenSpot Plant Report</string>
+    <string name="send_report">Send plant report via</string>
+    <string name="plant_report_location">Location: %1$s</string>
+    <string name="plant_report_no_location">There is no location information available</string>
+
+</resources>
