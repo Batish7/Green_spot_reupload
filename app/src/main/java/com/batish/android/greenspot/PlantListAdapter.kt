@@ -12,7 +12,7 @@ class PlantHolder(
     fun bind(plant: Plant, onPlantClicked: (plantId: UUID) -> Unit) {
         binding.plantTitle.text = plant.title
         binding.plantDate.text = plant.date.toString()
-
+        binding.plantPlace.text = plant.place
         binding.root.setOnClickListener {
             onPlantClicked(plant. id)
         }
